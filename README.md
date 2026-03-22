@@ -8,7 +8,7 @@ Docker installed
 KVM enabled system
 Administrative privileges
 # 📦 Features
-⚡ Run Windows 10 inside a Docker container
+⚡ Run Windows 7 inside a Docker container
 🔒 Secure with isolated environment
 🖥️ Access via noVNC (web browser) or RDP
 🚀 Fast virtualization using KVM (requires host support)
@@ -20,4 +20,4 @@ Docker installed
 Windows 7 ISO (for initial installation)
 Modern web browser (for noVNC access)
 # 🚀 Installation
-*hello*
+<(hello)>
