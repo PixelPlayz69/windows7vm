@@ -1,7 +1,6 @@
-# 🖥️ Windows 10 in Docker Container
-Docker KVM Windows
+# 🖥️ Windows 7 in Docker Container
 
-A Docker container solution for running Windows 10 with KVM acceleration, providing remote access via VNC and RDP.
+A Docker container solution for running Windows 7 with KVM acceleration, providing remote access via VNC and RDP.
 
 # 🚀 Getting Started
 Prerequisites
@@ -18,7 +17,7 @@ Administrative privileges
 Linux host with:
 KVM enabled (/dev/kvm should exist)
 Docker installed
-Windows 10 ISO (for initial installation)
+Windows 7 ISO (for initial installation)
 Modern web browser (for noVNC access)
 # 🚀 Installation
-(hello)
+*hello*
