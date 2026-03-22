@@ -21,4 +21,4 @@ Docker installed
 Windows 10 ISO (for initial installation)
 Modern web browser (for noVNC access)
 # 🚀 Installation
-<hello>
+(hello)
