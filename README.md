@@ -20,4 +20,3 @@ Docker installed
 Windows 7 ISO (for initial installation)
 Modern web browser (for noVNC access)
 # 🚀 Installation
-<(hello)>
